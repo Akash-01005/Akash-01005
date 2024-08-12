@@ -3,12 +3,12 @@
 Student @ Rajalakshmi Engineering College
 <img align="right" width="370" height="290" src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- 🔭 Here's my [portfolio]()
+- 🔭 Here's my [portfolio](https://legendary-toffee-a8e9ae.netlify.app/)
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web Development
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-  <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
+  <br /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   (https://www.linkedin.com/in/akash-s-01b2532ab/)
 - 😄 Pronouns: Tech Enthusiast
 
